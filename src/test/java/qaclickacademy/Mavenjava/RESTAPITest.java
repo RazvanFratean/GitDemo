@@ -7,6 +7,8 @@ public class RESTAPITest {
 	@Test
 	public void posJira() {
 		System.out.println("posJira");
+		System.out.println("posJira");
+		System.out.println("posJira");
 	}
 	
 	@Test
